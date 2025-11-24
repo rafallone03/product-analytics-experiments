@@ -1,0 +1,3 @@
+•	experiment-brief.md (hypothesis, success metrics, guardrails)
+•	sample_data.csv (fake but realistic)
+•	analysis.ipynb or analysis.sql (simple queries / notebook showing how you’d analyze uplift)
